@@ -1,4 +1,4 @@
-# download-random-fox-image
+# Download A Random Image of a Fox
 Before running the Python program, make sure to install Requests by typing the following in the terminal: \
 \
 `python -m pip install requests`\
